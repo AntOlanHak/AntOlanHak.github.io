@@ -12,34 +12,32 @@ Exhaust leake []
 
 ### Other issues:
 
+Replace sparkplugs []
+
 Central locking []
+
+Air filter [FIXED]
 
 Cupe filter []
 
-Replace sparkplugs []
-
 Inner tie rod []
-
-Rear springs []
 
 Rear suspention []
 
 New summer tires FRONT []
 
-Way to play music through phone []
+Coolant flush []
+
+Brake fluid flush []
 
 wheel alignment []
 
-repair scratches []
-
-replace coil pakage []
+### Nice to have fixes
 
 Wash and tidy []
 
 Recoat headlights []
 
-Coolant flush []
+repair scratches []
 
-Brake fluid flush []
-
-
+Way to play music through phone []
