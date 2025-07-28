@@ -16,13 +16,7 @@ Replace sparkplugs []
 
 Central locking []
 
-Air filter [FIXED]
-
-Cupe filter []
-
 Inner tie rod []
-
-Rear suspention []
 
 New summer tires FRONT []
 
@@ -33,6 +27,12 @@ Brake fluid flush []
 wheel alignment []
 
 ### Nice to have fixes
+
+Air filter [FIXED]
+
+Cupe filter []
+
+Rear suspention []
 
 Wash and tidy []
 
