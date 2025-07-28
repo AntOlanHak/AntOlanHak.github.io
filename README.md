@@ -1,8 +1,8 @@
 # AntOlanHak.github.io
 
-##TODO Astra EDITION
+## TODO Astra EDITION
 
-###Get my car through MOT:
+### Get my car through MOT:
 
 Front springs [FIXED]
 
@@ -10,7 +10,7 @@ Handbake cable [FIXED]
 
 Exhaust leake []
 
-###Other issues:
+### Other issues:
 
 Central locking []
 
@@ -36,6 +36,10 @@ replace coil pakage []
 
 Wash and tidy []
 
+Recoat headlights []
+
 Coolant flush []
 
 Brake fluid flush []
+
+
